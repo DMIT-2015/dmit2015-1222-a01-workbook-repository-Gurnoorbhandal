@@ -1,8 +1,8 @@
 # DMIT2015 Fall 2022 assignments
 
-## your name here
+## Gurnoor Singh
 
-## your Github Account id
+## GurnoorBhandal
 
 This is a private repository for your assignments. 
 You will use this only for evaluation work. 
